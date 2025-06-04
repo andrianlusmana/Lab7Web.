@@ -25,8 +25,12 @@
 ![code6](https://github.com/user-attachments/assets/5296576e-504f-4785-942e-43a3fba0d7f7)
 <br>
 <h1>Praktikum 3: View Layout dan View Cell</h1>
-![code7](https://github.com/user-attachments/assets/afd6e007-c4cd-4852-a1b3-f0fea383515b)
 
+![code7](https://github.com/user-attachments/assets/1d73c57c-f7a6-463f-9273-1c90a4a680ab)
+![code8](https://github.com/user-attachments/assets/4cde83b9-435b-46e8-a12c-d867cd7b07bc)
+![code9](https://github.com/user-attachments/assets/38ce64dd-b27b-4c9a-a13b-8856ad7194e4)
+
+![code10](https://github.com/user-attachments/assets/28f29c4e-a31b-4ca9-80c4-d3a2bb427ef4)
 
 
 
