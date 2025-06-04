@@ -1,3 +1,23 @@
+<h1>Praktikum 1: PHP Framework (Codeigniter)</h1>
+<img width="959" alt="Screenshot 2025-06-04 210654" src="https://github.com/user-attachments/assets/823899e6-5c84-48e3-a8e3-961e47eab9d6" />
+<img width="960" alt="Screenshot 2025-06-04 211127" src="https://github.com/user-attachments/assets/0e6abe7c-c561-4fd4-86db-238e0fa3f781" />
+<img width="960" alt="Screenshot 2025-06-04 211239" src="https://github.com/user-attachments/assets/2a327eb7-e975-4e08-bd78-483e5730c9cb" />
+<img width="960" alt="Screenshot 2025-06-04 205836" src="https://github.com/user-attachments/assets/b2f6ee66-cdc9-4471-a862-f6f4d6ee8f39" />
+<h1>Praktikum 2: Framework Lanjutan (CRUD)</h1>
+<img width="842" alt="Screenshot 2025-06-04 211640" src="https://github.com/user-attachments/assets/12ef269b-ca58-4cdd-828b-37f133b326e7" />
+<img width="952" alt="Screenshot 2025-06-04 211819" src="https://github.com/user-attachments/assets/4a30a006-73d6-4590-a72d-1478bc2ca874" />
+<img width="664" alt="Screenshot 2025-06-04 212144" src="https://github.com/user-attachments/assets/edf69a37-de76-47fe-8e08-748fc4040d78" />
+<img width="672" alt="Screenshot 2025-06-04 212243" src="https://github.com/user-attachments/assets/02f42d36-1576-4249-9cba-5aef2deafd81" />
+<img width="960" alt="Screenshot 2025-06-04 205820" src="https://github.com/user-attachments/assets/38e34570-31d4-4f22-9326-8c1d97b85801" />
+<img width="707" alt="Screenshot 2025-06-04 212645" src="https://github.com/user-attachments/assets/8f7db224-6d4a-4e70-baf3-4d6c80be6f89" />
+
+![code1](https://github.com/user-attachments/assets/e173d368-9a3b-42e9-86da-de5cba3122c0)
+
+![code](https://github.com/user-attachments/assets/33d5433c-9b20-4067-82b4-b0dfe034b4c5)
+
+
+
+
 # CodeIgniter 4 Framework
 
 ## What is CodeIgniter?
