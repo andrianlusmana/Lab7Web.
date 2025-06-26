@@ -32,6 +32,8 @@
 
 ![code10](https://github.com/user-attachments/assets/28f29c4e-a31b-4ca9-80c4-d3a2bb427ef4)
 <br>
+<br>
+<br>
 
 <h1>Melanjutkan praktikum sebelumnya</h1>
 <br>
