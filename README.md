@@ -31,6 +31,24 @@
 ![code9](https://github.com/user-attachments/assets/38ce64dd-b27b-4c9a-a13b-8856ad7194e4)
 
 ![code10](https://github.com/user-attachments/assets/28f29c4e-a31b-4ca9-80c4-d3a2bb427ef4)
+<br>
+
+<h1>Melanjutkan praktikum sebelumnya</h1>
+<br>
+<h1>Praktikum 4: Framework Lanjutan (Modul Login)</h1>
+<br>
+<h2>Membuat Tabel User<h2>
+<img width="960" alt="Screenshot 2025-06-05 133622" src="https://github.com/user-attachments/assets/0896829e-1963-4ac4-8758-fbe10ab4545b" />
+
+<h1>Praktikum 5: Pagination dan Pencarian</h1>
+<h2>Untuk membuat pagination, buka Kembali Controller Artikel, kemudian modifikasi kode
+pada method admin_index seperti berikut.</h2>
+
+![admin_index](https://github.com/user-attachments/assets/e5a75deb-2cf1-4736-9cd2-b38d45b33d66)
+<br>
+<h2> menambahkan form pencarian sebelum deklarasi tabel seperti berikut:</h2>
+
+![form](https://github.com/user-attachments/assets/2bb69bee-20a8-42ce-a0c9-9cd81d182e70)
 
 
 
