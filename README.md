@@ -42,6 +42,35 @@
 <h2>Membuat Tabel User<h2>
 <img width="960" alt="Screenshot 2025-06-05 133622" src="https://github.com/user-attachments/assets/0896829e-1963-4ac4-8758-fbe10ab4545b" />
 <br>
+<h2>Membuat Model User</h2>
+<p>Selanjutnya adalah membuat Model untuk memproses data Login. Buat file baru pada direktori
+app/Models dengan nama UserModel.php</p>
+  
+![P4_user](https://github.com/user-attachments/assets/fac0b356-af37-4f2a-bf49-f1ef486b6d82)
+<br>
+<h2>Membuat Controller User</h2>
+<p>Buat Controller baru dengan nama User.php pada direktori app/Controllers. Kemudian
+tambahkan method index() untuk menampilkan daftar user, dan method login() untuk proses
+login.</p>
+
+![P4_user php](https://github.com/user-attachments/assets/27357786-7474-4802-b7fc-8f9019f9727a)<br>
+<h2>Membuat View Login</h2>
+<p>Buat direktori baru dengan nama user pada direktori app/views, kemudian buat file baru
+dengan nama login.php.</p>
+
+![P4_login php](https://github.com/user-attachments/assets/f26f0a8e-fb7d-4ee6-9c18-e3f13fb42650)<br>
+<h2>Selanjutnya, buka file UserSeeder.php yang berada di lokasi direktori
+/app/Database/Seeds/UserSeeder.php kemudian isi dengan kode berikut:</h2>
+
+![P4_database](https://github.com/user-attachments/assets/4a263a47-fba1-41fa-9a7d-c163688e7888)
+<br>
+<h2>Uji Coba Login</h2>
+<p>Selanjutnya buka url http://localhost:8080/user/login seperti berikut:</p>
+<img width="960" alt="{E8F3AE26-0627-43CD-AD53-8CEA42E35B9A}" src="https://github.com/user-attachments/assets/b3a9cc14-8efb-44e7-a383-6ea993a53d27" />
+
+
+  
+<br>
 <br>
 <h1>Praktikum 5: Pagination dan Pencarian</h1>
 <h2>Untuk membuat pagination, buka Kembali Controller Artikel, kemudian modifikasi kode
