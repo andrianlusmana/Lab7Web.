@@ -41,7 +41,8 @@
 <br>
 <h2>Membuat Tabel User<h2>
 <img width="960" alt="Screenshot 2025-06-05 133622" src="https://github.com/user-attachments/assets/0896829e-1963-4ac4-8758-fbe10ab4545b" />
-
+<br>
+<br>
 <h1>Praktikum 5: Pagination dan Pencarian</h1>
 <h2>Untuk membuat pagination, buka Kembali Controller Artikel, kemudian modifikasi kode
 pada method admin_index seperti berikut.</h2>
@@ -51,14 +52,26 @@ pada method admin_index seperti berikut.</h2>
 <h2> menambahkan form pencarian sebelum deklarasi tabel seperti berikut:</h2>
 
 ![form](https://github.com/user-attachments/assets/2bb69bee-20a8-42ce-a0c9-9cd81d182e70)
-
 <img width="960" alt="Screenshot 2025-07-01 233851" src="https://github.com/user-attachments/assets/372e1c28-d3d9-4bdc-922e-24bcc5abec1e" />
+<br>
+<br>
+<h1>Praktikum 6: Upload File Gambar</h1>
+<h2>Upload Gambar pada Artikel</h2>
+<p>Menambahkan fungsi unggah gambar pada tambah artikel.
+Buka kembali Controller Artikel pada project sebelumnya, sesuaikan kode pada method
+add seperti berikut:</p>
 
+![P6_add](https://github.com/user-attachments/assets/f85ad8e0-c639-464c-9cd6-7899de26cc73)
+<p>Kemudian pada file views/artikel/form_add.php tambahkan field input file seperti
+berikut.</p>
 
+![P6_gambar](https://github.com/user-attachments/assets/54115297-3b28-497b-a132-645713877953)
+<h2>Menjalankan http://localhost:8080/admin/artikel/add</h2>
 
+<img width="960" alt="Screenshot 2025-07-01 235516" src="https://github.com/user-attachments/assets/49310791-a5aa-40e2-9ffb-82bc582591b1" />
 
-
-# CodeIgniter 4 Framework
+# CodeIgniter 4 Fram
+ework
 
 ## What is CodeIgniter?
 
