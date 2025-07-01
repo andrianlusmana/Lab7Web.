@@ -1,4 +1,4 @@
-<p style="font-size: 8px;">Praktikum 1: PHP Framework (Codeigniter)<p>
+<p style="font-size: 100px;">Praktikum 1: PHP Framework (Codeigniter)<p>
 <img width="959" alt="Screenshot 2025-06-04 210654" src="https://github.com/user-attachments/assets/823899e6-5c84-48e3-a8e3-961e47eab9d6" />
 <img width="960" alt="Screenshot 2025-06-04 211127" src="https://github.com/user-attachments/assets/0e6abe7c-c561-4fd4-86db-238e0fa3f781" />
 <img width="960" alt="Screenshot 2025-06-04 211239" src="https://github.com/user-attachments/assets/2a327eb7-e975-4e08-bd78-483e5730c9cb" />
