@@ -81,6 +81,7 @@ pada method admin_index seperti berikut.</h2>
 <h2> menambahkan form pencarian sebelum deklarasi tabel seperti berikut:</h2>
 
 ![form](https://github.com/user-attachments/assets/2bb69bee-20a8-42ce-a0c9-9cd81d182e70)
+<h2>Menjalankan http://localhost:8080/admin/artikel</h2>
 <img width="960" alt="Screenshot 2025-07-01 233851" src="https://github.com/user-attachments/assets/372e1c28-d3d9-4bdc-922e-24bcc5abec1e" />
 <br>
 <br>
