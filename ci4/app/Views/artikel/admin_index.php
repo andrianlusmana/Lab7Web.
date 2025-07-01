@@ -65,18 +65,41 @@
   .btn-gray:hover {
     background-color: #bdbdbd;
   }
-  .form-search {
-    margin-bottom: 10px;
-    margin-top: 16px;
-    padding: 0;
-    text-align: left;
-    display: block;
-  }
+
+  .header-bar {
+  display: flex;
+  justify-content: flex-start; /* Penting agar ke kiri */
+  margin: 5px 0 50px 0;
+  position: absolute;
+  margin-left: 10px;
+  
+}
+
+.form-search .btn {
+  padding: 6px 12px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.form-search .btn:hover {
+  background-color: #0056b3;
+}
+.box{
+  padding: 10px;
+  width: 80px;
+  
+};
+
 </style>
-<form method="get" class="form-search">
-  <input type="text" name="q" value="<?= $q; ?>" placeholder="Cari data">
-  <input type="submit" value="Cari" class="btn btn-primary">
-</form>
+<div class="header-bar">
+  <form method="get" class="form-search">
+    <input type="text" name="q" value="<?= $q; ?>" placeholder="Cari data">
+    <input type="submit" value="Cari" class="btn btn-primary">
+  </form>
+</div>
 
 <table class="table">
   <thead>
@@ -84,7 +107,7 @@
       <th>ID</th>
       <th>Judul</th>
       <th>Status</th>
-      <th>AKsi</th>
+      <th>Aksi</th>
     </tr>
   </thead>
   <tbody>
@@ -120,6 +143,9 @@
     </tr>
   </tfoot>
 </table>
+<div class="box">
 <?= $pager->links(); ?>
+</div>
+
 
 <?= view('template/admin_footer'); ?>
