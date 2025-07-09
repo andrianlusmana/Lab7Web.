@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?= $this->include('template/admin_header'); ?>
 
 <div class="admin-container">
@@ -41,8 +40,8 @@
 
 <style>
   :root {
-    --primary-color: #4a6cf7;
-    --secondary-color: #6c757d;
+    --primary-color:rgb(136, 136, 136);
+    --secondary-color:rgb(83, 132, 175);
     --success-color: #28a745;
     --background-color: #f8f9fa;
     --card-color: #ffffff;
@@ -95,7 +94,7 @@
   .admin-form .form-control:focus {
     outline: none;
     border-color: var(--primary-color);
-    box-shadow: 0 0 0 0.2rem rgba(74, 108, 247, 0.25);
+    box-shadow: 0 0 0 0.2rem rgba(86, 102, 227, 0.25);
   }
 
   .admin-form textarea.form-control {
@@ -112,7 +111,7 @@
   .file-label {
     display: inline-flex;
     align-items: center;
-    background-color: #E52020;
+    background-color:rgb(222, 48, 48);
     color: white;
     padding: 0.75rem 1rem;
     border-radius: var(--radius);
@@ -123,7 +122,7 @@
   }
 
   .file-label:hover {
-    background-color: #b71c1c;
+    background-color:rgb(116, 40, 40);
   }
 
   .file-icon {
@@ -185,24 +184,3 @@
 </script>
 
 <?= $this->include('template/admin_footer'); ?>
-=======
-<?= view('template/admin_header'); ?>
-
-<h2><?= $title; ?></h2>
-<style>
-    .btn-large {
-        background-color: #337ab7;
-    }
-</style>
-<form action="" method="post">
-    <p>
-        <input type="text" name="judul">
-    </p>
-    <p>
-        <textarea name="isi" cols="50" rows="10"></textarea>
-    </p>
-    <p><input type="submit" value="Kirim" class="btn btn-large"></p>
-</form>
-
-<?= view('template/admin_footer'); ?>
->>>>>>> 915420f3e91ca833bfbfddb78a67ac72e9dade4d
