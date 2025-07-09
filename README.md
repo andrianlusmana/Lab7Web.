@@ -104,6 +104,72 @@ berikut.</p>
 <h2>Menjalankan http://localhost:8080/admin/artikel/add</h2>
 
 <img width="960" alt="Screenshot 2025-07-01 235516" src="https://github.com/user-attachments/assets/49310791-a5aa-40e2-9ffb-82bc582591b1" />
+<br>
+<br>
+<br>
+<br>
+<h1>Praktikum 7: Relasi Tabel dan Query Builder </h1>
+<h2>Membuat Tabel Kategori</h2>
+<img width="960" alt="Screenshot 2025-07-02 072348" src="https://github.com/user-attachments/assets/44b47c1e-079d-4db5-a517-f3875adad63f" />
+<h2>Membuat Model Kategori</h2>
+  
+![katagori model](https://github.com/user-attachments/assets/9257de20-75ed-474f-a77d-a2e630f2f754)
+<h2>Memodifikasi Model Artikel</h2>
+
+![ArtikelKatagori](https://github.com/user-attachments/assets/617c01f5-b024-45fc-9d4b-5b88343ec337)
+<img width="959" alt="{4256B449-8281-4BE0-B855-DB67D53C4F74}" src="https://github.com/user-attachments/assets/e71bd074-3bb7-4886-9b2e-ce296a4ce67f" />
+<br>
+<br>
+<br>
+<h1>Praktikum 8: AJAX</h1>
+<h2>Membuat AJAX Controller</h2>
+
+![ajax](https://github.com/user-attachments/assets/97fcb2bb-6241-46db-ad3c-4cda76b73f00)
+<br>
+<br>
+<br>
+<h1>Praktikum 9: Implementasi AJAX Pagination dan Search </h1>
+<h2>Modifikasi Controller Artikel</h2>
+
+![Modifikasi_admin_index](https://github.com/user-attachments/assets/f7417d13-0a63-405c-9425-55cd09cac9af)
+<h2>Modifikasi View (admin_index.php)</h2>
+
+![Modifikasi_View_admin_index](https://github.com/user-attachments/assets/0f772e42-947b-45e9-87cb-8c5f024a1e0a)
+<br>
+<br>
+<br>
+<h1>Praktikum 10: API</h1>
+<h2>Membuat REST Controller</h2>
+<p>Pada tahap ini, kita akan membuat file REST Controller yang berisi fungsi untuk menampilkan,
+menambah, mengubah dan menghapus data. Masuklah ke direktori app\Controllers dan buatlah file
+baru bernama Post.php. Kemudian, salin kode di bawah ini ke dalam file tersebut:</p>
+
+![post](https://github.com/user-attachments/assets/ea68f3e7-1c02-405c-aeb3-fb74f043ce38)
+<p>Selanjutnya akan muncul daftar route yang telah dibuat.</p>
+<img width="397" alt="Screenshot 2025-07-09 233048" src="https://github.com/user-attachments/assets/257b8605-a12d-4da1-825c-2c0be5ab1250" />
+<h2>Testing REST API CodeIgniter</h2>
+<p>Menampilkan Semua Data</p>
+<img width="960" alt="Screenshot 2025-07-04 223639" src="https://github.com/user-attachments/assets/7f2627b8-ed8d-4a19-8355-12e64e443d84" />
+<p>Menampilkan Data Spesifik</p>
+<img width="960" alt="Screenshot 2025-07-04 223750" src="https://github.com/user-attachments/assets/9d1729ba-076f-4e93-bed1-31358626c8e7" />
+<p>Menambahkan Data</p>
+<img width="960" alt="Screenshot 2025-07-04 224657" src="https://github.com/user-attachments/assets/0a547baa-17fa-4016-95a7-669d73a34449" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # CodeIgniter 4 Fram
 ework
