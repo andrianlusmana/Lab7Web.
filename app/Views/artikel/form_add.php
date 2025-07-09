@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?= $this->include('template/admin_header'); ?>
 
 <div class="admin-container">
@@ -184,3 +185,24 @@
 </script>
 
 <?= $this->include('template/admin_footer'); ?>
+=======
+<?= view('template/admin_header'); ?>
+
+<h2><?= $title; ?></h2>
+<style>
+    .btn-large {
+        background-color: #337ab7;
+    }
+</style>
+<form action="" method="post">
+    <p>
+        <input type="text" name="judul">
+    </p>
+    <p>
+        <textarea name="isi" cols="50" rows="10"></textarea>
+    </p>
+    <p><input type="submit" value="Kirim" class="btn btn-large"></p>
+</form>
+
+<?= view('template/admin_footer'); ?>
+>>>>>>> 915420f3e91ca833bfbfddb78a67ac72e9dade4d
