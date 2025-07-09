@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-# CodeIgniter 4 Framework
-=======
+<h1>Nama : Andrian lusmana</h1>
+<br>
 <h1>Praktikum 1: PHP Framework (Codeigniter)</h1>
 <img width="959" alt="Screenshot 2025-06-04 210654" src="https://github.com/user-attachments/assets/823899e6-5c84-48e3-a8e3-961e47eab9d6" />
 <img width="960" alt="Screenshot 2025-06-04 211127" src="https://github.com/user-attachments/assets/0e6abe7c-c561-4fd4-86db-238e0fa3f781" />
