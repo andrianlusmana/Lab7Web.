@@ -152,8 +152,24 @@ baru bernama Post.php. Kemudian, salin kode di bawah ini ke dalam file tersebut:
 <img width="960" alt="Screenshot 2025-07-04 223639" src="https://github.com/user-attachments/assets/7f2627b8-ed8d-4a19-8355-12e64e443d84" />
 <p>Menampilkan Data Spesifik</p>
 <img width="960" alt="Screenshot 2025-07-04 223750" src="https://github.com/user-attachments/assets/9d1729ba-076f-4e93-bed1-31358626c8e7" />
-<p>Menambahkan Data</p>
+<p>Mengubah Data</p>
 <img width="960" alt="Screenshot 2025-07-04 224657" src="https://github.com/user-attachments/assets/0a547baa-17fa-4016-95a7-669d73a34449" />
+<p>Menambahkan Data</p>
+<img width="960" alt="Screenshot 2025-07-04 224927" src="https://github.com/user-attachments/assets/c89293a5-3d35-4e12-8d70-cde9bb0ad5ff" />
+<p>Menghapus Data</p>
+<img width="960" alt="Screenshot 2025-07-04 225115" src="https://github.com/user-attachments/assets/51e83a32-e559-4b70-91aa-4e7e25d45827" />
+<br>
+<br>
+<br>
+<h1>Praktikum 11: VueJS</h1>
+<h2>Struktur Direktory</h2>
+<img width="960" alt="{D6E393BB-8954-4EE4-8054-D81440BF2934}" src="https://github.com/user-attachments/assets/337231e5-a3a5-4e91-bb5f-5e2ef139bcc8" />
+<p>Hasil outpunya.</p>
+<img width="960" alt="{CA4B1BB8-FCC6-4158-9A00-6E5EB17A3517}" src="https://github.com/user-attachments/assets/c854b8e1-0545-4bc5-a914-a83255b5d96f" />
+
+
+
+
 
 
 
