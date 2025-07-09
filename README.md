@@ -1,4 +1,7 @@
-<h1>Nama : Andrian lusmana</h1>
+<h1>Nama   : Andrian lusmana</h1>
+<h1>Nim    : 312310199</h1>
+<h1>Kelas  : TI.23.A2</h1>
+======================================================================================
 <br>
 <h1>Praktikum 1: PHP Framework (Codeigniter)</h1>
 <img width="959" alt="Screenshot 2025-06-04 210654" src="https://github.com/user-attachments/assets/823899e6-5c84-48e3-a8e3-961e47eab9d6" />
